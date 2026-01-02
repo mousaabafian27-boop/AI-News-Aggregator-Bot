@@ -117,3 +117,4 @@ Your contributions are highly welcome! If you have suggestions for new news sour
 ## 📄 License: Freedom to Use!
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Commit directly to the main branch
